@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Mugdha Parbat",
+      "mobile": "8764536666",
+      "email": "mugdha.parbat@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Vaidehi Sadhu",
+      "mobile": "8764544466",
+      "email": "vaidehi.sadhu@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Bhargavi Hirde",
+      "mobile": "8777536666",
+      "email": "bhargavi.hirde@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Vedali Chandane",
+      "mobile": "8733333366",
+      "email": "vedali.chandane@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Robert Pattinson",
+      "mobile": "8764536006",
+      "email": "rob.pattinson@gmail.com"
+    },
+    {
+      "name": "Bhargavi Hirde",
+      "mobile": "9999999996",
+      "email": "bhargavi.hirde@gmail.com",
+      "id": "1hD2iAj"
+    },
+    {
+      "name": "Shalmali Bhave",
+      "mobile": "9090909090",
+      "email": "shalmali.bhave99@gmail.com",
+      "id": "iCycteD"
+    },
+    {
+      "name": "Harry James Potter",
+      "mobile": "0007775556",
+      "email": "harry.potter@hotmail.com",
+      "id": "SxoPm82"
+    }
+  ]
+}

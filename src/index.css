@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right, #22c1c3, #fdbb2d) !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.contact-img {
+  width: 100px;
+  height: 100px;
+}
+
+.btn-primary {
+  background-color: #2de9eb !important;
+  border-color: #2de9eb !important;
+}
+
+.btn-primary:hover {
+  background-color: #087d7f !important;
+}
+
+.card {
+  border-radius: 20px !important;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
+}
+
+.card-body {
+  border-radius: 20px !important;
+}
