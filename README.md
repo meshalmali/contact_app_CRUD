@@ -9,9 +9,7 @@ A contact manager application (SPA) written in React with all the CRUD (Create|R
 - [@meshalmali](https://github.com/meshalmali)
 
 
-## Demo
 
-Web app hosted on: https://contact-app-f6cb9.web.app/contacts/list
 
 
 ## Deployment
